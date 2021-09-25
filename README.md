@@ -13,3 +13,4 @@
 - [x] grid
 - [x] gridnav
 - [x] mouse support
+- [x] line height
