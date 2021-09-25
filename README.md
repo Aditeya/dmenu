@@ -8,3 +8,4 @@
 - [x] numbers
 - [x] borders
 - [x] center
+- [x] caseinsensitive
