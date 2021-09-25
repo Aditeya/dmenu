@@ -7,3 +7,4 @@
 - [x] password
 - [x] numbers
 - [x] borders
+- [x] center
