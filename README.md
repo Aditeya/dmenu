@@ -9,3 +9,4 @@
 - [x] borders
 - [x] center
 - [x] caseinsensitive
+- [x] highlight
