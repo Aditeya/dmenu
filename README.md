@@ -5,3 +5,4 @@
 `patch --merge -i [patch.diff]`
 
 - [x] password
+- [x] numbers
