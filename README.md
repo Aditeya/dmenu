@@ -6,3 +6,4 @@
 
 - [x] password
 - [x] numbers
+- [x] borders
