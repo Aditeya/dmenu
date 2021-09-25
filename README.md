@@ -12,3 +12,4 @@
 - [x] highlight
 - [x] grid
 - [x] gridnav
+- [x] mouse support
