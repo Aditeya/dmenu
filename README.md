@@ -10,3 +10,5 @@
 - [x] center
 - [x] caseinsensitive
 - [x] highlight
+- [x] grid
+- [x] gridnav
